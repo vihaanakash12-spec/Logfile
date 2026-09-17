@@ -1,0 +1,4 @@
+2026-09-17 09:00:00 INFO Application started
+2026-09-17 09:01:12 WARN Connection timeout while contacting database
+2026-09-17 09:02:03 ERROR Login failed for user admin
+2026-09-17 09:03:10 DEBUG Retrying database connection
